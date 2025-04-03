@@ -22,7 +22,7 @@ Drama (Asianbxkiun):
   blacklist_urls:
 
 DownloaderConfig:
-  download_dir: C:\Users\HP\Downloads\Video   # Default directory. Can override by setting this in above client-specific configuration.
+  download_dir: C:\Users\otino\OneDrive\Desktop\саб   # Default directory. Can override by setting this in above client-specific configuration.
   temp_download_dir: auto                     # If set to auto, creates a temp location under the target folder
   concurrency_per_file: auto                  # Concurrency to download segments in a m3u8 file
   request_timeout: 30
